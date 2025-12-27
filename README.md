@@ -12,7 +12,7 @@ I'm a **Mechatronics Engineering student at TEC Costa Rica** passionate about bu
 <img src="https://github.com/CSS-Next/logo.css/blob/main/primary/css.png?raw=true" width="30"/> CSS  
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="30"/> HTML  
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="30"/> Linux  
-<img src="https://img.icons8.com/color/48/000000/matlab.png" alt="MATLAB" width="30"/> MATLAB  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="30"/> MATLAB
 
 ---
 
