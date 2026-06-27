@@ -3,7 +3,7 @@
 </div>
 <h2 align="center"> Hi — I'm Katha!</h2>
 
-<img align="right" src="https://octodex.github.com/images/Robotocat.png" width="25%" alt="octocat"/>
+<img align="right" src="https://raw.githubusercontent.com/KathaMonge/KathaMonge/refs/heads/main/assets/gitcat.png" width="25%" alt="octocat"/>
 
 * **My name is**: Katha
 * **Pronouns**: She/Her
